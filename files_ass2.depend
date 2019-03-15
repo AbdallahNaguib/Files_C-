@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552662535 source:e:\my work\c++\files_ass2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+
+1552662535 source:e:\my work\c++\files_ass2_2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+
